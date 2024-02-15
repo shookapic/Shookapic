@@ -1,16 +1,13 @@
-### Hi there 👋
+# Shookapic
 
-<!--
-**Shookapic/Shookapic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Shookapic)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Shookapic)
 
-Here are some ideas to get you started:
+*Front-End in C is crazy*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## How to contact me
+- Discord: shookapic *My DMs are open if you want to say hi !*
+
+- E-Mail: cedric.roulof1@gmail.com
+
+- Twitter: [@shookx_](https://twitter.com/shookx_)
