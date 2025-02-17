@@ -1,13 +1,8 @@
-# Shookapic
+### Hi, I'm Roulof Cedric 👋
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Shookapic)](https://github.com/anuraghazra/github-readme-stats)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Shookapic)
+- 🔭 I’m currently working on VR Technology.
+- 🌱 I’m currently learning C#, C++, Js.
+- 📫 How to reach me: cedric.roulof@epitech.eu
+- ⚡ Fun fact: I live on a rock.
 
-*Front-End in C is crazy*
-
-## How to contact me
-- Discord: shookapic *My DMs are open if you want to say hi !*
-
-- E-Mail: cedric.roulof1@gmail.com
-
-- Twitter: [@shookx_](https://twitter.com/shookx_)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shookapic&theme=radical&hide_border=false&layout=compact&count_private=true">
