@@ -5,4 +5,5 @@
 - 📫 How to reach me: cedric.roulof@epitech.eu
 - ⚡ Fun fact: I live on a rock.
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shookapic&theme=radical&hide_border=false&layout=compact&count_private=true">
+![shookapic's Streak](https://github-readme-streak-stats.herokuapp.com/?user=shookapic&theme=monokai&hide_border=false)
+![shookapic's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shookapic&theme=monokai&show_icons=true&hide_border=false&layout=compact)
