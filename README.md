@@ -21,11 +21,8 @@ I'm a cybersecurity enthusiast 👻
 - [Minishell](https://github.com/shookapic/Minishell) — A minimal shell written in C.
 - [ASCII_Art](https://github.com/shookapic/ASCII_Art) — A C++ tool for generating ASCII art.
 
-<details>
-<summary>🏆 Github Stats</summary>
-<img src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=shookapic">
-<img src="https://github-profile-trophy.vercel.app/?username=moepoi">
-</details>
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=shookapic)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## 📫 Contact Me
 
