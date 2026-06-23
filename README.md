@@ -23,7 +23,7 @@ I'm a cybersecurity enthusiast 👻
 
 <details>
 <summary>🏆 Github Stats</summary>
-<img src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=moepoi">
+<img src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=shookapic">
 <img src="https://github-profile-trophy.vercel.app/?username=moepoi">
 </details>
 
