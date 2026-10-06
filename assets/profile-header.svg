@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">Cédric Roulof — shookapic</title>
+  <desc id="desc">Software development, cybersecurity, and systems. A navy header with mint accents and a terminal illustration.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#101c30"/>
+      <stop offset="1" stop-color="#080f1c"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#23344a" stroke-width="1" opacity=".35"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="320" rx="16" fill="url(#background)"/>
+  <rect width="1200" height="320" rx="16" fill="url(#grid)"/>
+  <rect x="0" y="42" width="4" height="236" rx="2" fill="#64e6ba"/>
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <text x="54" y="73" fill="#64e6ba" font-size="15" font-weight="600" letter-spacing="3">SHOOKAPIC / DEVELOPER</text>
+    <text x="50" y="149" fill="#f0f5fc" font-size="58" font-weight="700" letter-spacing="-2">Cédric Roulof</text>
+    <text x="54" y="194" fill="#c5d1e2" font-size="22">Software. Security. Systems.</text>
+    <text x="54" y="251" fill="#8f9fb7" font-size="17">Building useful tools. Understanding what runs beneath.</text>
+  </g>
+  <rect x="753" y="59" width="393" height="202" rx="12" fill="#0b1423" stroke="#304258"/>
+  <path d="M754 98H1145" stroke="#304258"/>
+  <circle cx="777" cy="79" r="5" fill="#697b92"/>
+  <circle cx="795" cy="79" r="5" fill="#697b92"/>
+  <circle cx="813" cy="79" r="5" fill="#64e6ba"/>
+  <g font-family="Consolas, 'Liberation Mono', monospace" font-size="17">
+    <text x="839" y="85" fill="#8f9fb7" font-size="12">~/shookapic</text>
+    <text x="775" y="132" fill="#64e6ba">$ whoami</text>
+    <text x="775" y="161" fill="#d6e1ef">developer · security enthusiast</text>
+    <text x="775" y="205" fill="#64e6ba">$ focus</text>
+    <text x="775" y="234" fill="#d6e1ef">tools / systems / applications</text>
+  </g>
+</svg>

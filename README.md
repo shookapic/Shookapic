@@ -1,31 +1,43 @@
-# Hi there 👋
+<p align="center">
+  <img src="./assets/profile-header.svg" width="100%" alt="Cédric Roulof — shookapic. Software. Security. Systems." />
+</p>
 
-I'm a cybersecurity enthusiast 👻
+<p align="center">
+  <a href="https://re.linkedin.com/in/c%C3%A9dric-roulof-494026258">LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="mailto:cedric.roulof@epitech.eu">Email</a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/shookapic?tab=repositories">Explore my repositories</a>
+</p>
 
-## 🌱 Currently Learning
+## About me
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Unreal Engine 5](https://img.shields.io/badge/Unreal%20Engine%205-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
+I'm **Cédric Roulof**, a developer and cybersecurity enthusiast. I build tools that make technical work easier, from persistent security lab environments to desktop applications and a virtual CPU built from scratch.
 
+My interests meet where **software development, security, and low-level systems** overlap. I like understanding how things work beneath the interface, then turning that understanding into something useful.
 
-- **Discord:** shookapic
-- **LinkedIn:** [Roulof Cédric](https://re.linkedin.com/in/c%C3%A9dric-roulof-494026258)
-- **Mail:** cedric.roulof@epitech.eu
+## Selected projects
 
-## 🚀 Have a Look at My Recent Projects
+| Project | What it does | Built with |
+| :--- | :--- | :--- |
+| **[RangeDock](https://github.com/shookapic/rangedock)** | Named, persistent security lab workspaces with an interactive console, VPN profiles, and optional MCP integration. | Python · Docker |
+| **[Ace](https://github.com/shookapic/Ace)** | A desktop AI chat overlay with streaming responses, file attachments, voice input, and conversation history. | Rust · Tauri · React · TypeScript |
+| **[TinyVM](https://github.com/shookapic/TinyVM)** | An educational 64-bit virtual machine with a custom instruction set, assembler, and bytecode execution loop. | C++ · CMake |
+| **[Flowfy](https://github.com/shookapic/Flowfy)** | A workflow automation project connecting services, with a containerized frontend and backend. | Docker Compose · PostgreSQL |
+| **[Minishell](https://github.com/shookapic/Minishell)** | A minimal command-line shell built in C. | C · Make |
 
-- [GPTerminal](https://github.com/shookapic/GPTerminal) — ChatGPT in your terminal, written in C++.
-- [Flowfy](https://github.com/shookapic/Flowfy) — A Zapier alternative.
-- [Minishell](https://github.com/shookapic/Minishell) — A minimal shell written in C.
-- [ASCII_Art](https://github.com/shookapic/ASCII_Art) — A C++ tool for generating ASCII art.
+Also explore **[ASCII_Art](https://github.com/shookapic/ASCII_Art)** — C++ tools that turn video and live webcam input into ASCII art.
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=shookapic)](https://github.com/anuraghazra/github-readme-stats)
+## Technical interests
 
+- **Systems programming:** C, C++, virtual machines, and command-line tools.
+- **Security tooling:** containerized labs, reproducible workspaces, and practical cybersecurity learning.
+- **Application development:** React, TypeScript, and native desktop interfaces with Tauri.
+- **Continuing to explore:** Unreal Engine 5 and game development.
 
-## 📫 Contact Me
+## Let's connect
 
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/shookapic)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://re.linkedin.com/in/c%C3%A9dric-roulof-494026258)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cedric.roulof@epitech.eu)
+Interested in security tooling, systems programming, or building useful applications? Get in touch.
+
+**[LinkedIn](https://re.linkedin.com/in/c%C3%A9dric-roulof-494026258)** · **[cedric.roulof@epitech.eu](mailto:cedric.roulof@epitech.eu)**  
+Discord: `shookapic`
