@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/profile-header.svg" width="100%" alt="Cédric Roulof — shookapic. Software. Security. Systems." />
+  <img src="./assets/profile-header.gif" width="100%" alt="Cédric Roulof — shookapic. Software. Security. Systems." />
 </p>
 
 <p align="center">
